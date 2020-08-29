@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="themeListArray">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+        <item>Default by system</item>
+    </string-array>
+
+    <string-array name="themeEntryArray">
+        <item>light</item>
+        <item>dark</item>
+        <item>default</item>
+    </string-array>
+</resources>

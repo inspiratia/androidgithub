@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Tentang</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorite_add">%s ditambahkan ke Favorit</string>
+    <string name="favorite_remove">%s dihapus dari Favorit</string>
+    <string name="home">Beranda</string>
+    <string name="language">Bahasa</string>
+    <string name="language_summary">Ubah bahasa</string>
+    <string name="no_favourite">Data tidak ditemukan</string>
+    <string name="not_found">Data tidak ditemukan</string>
+    <string name="not_have">%1$s Tidak Ada %2$s</string>
+    <string name="reminder">Pengingat Harian</string>
+    <string name="reminder_off">Pengingat harian dinonaktifkan</string>
+    <string name="reminder_on">Pengingat harian diaktifkan</string>
+    <string name="reminder_msg">Ini adalah notifikasi pengingat aplikasi Pengguna GitHub</string>
+    <string name="search_hint">Input nama pengguna GitHub</string>
+    <string name="settings">Pengaturan</string>
+    <string name="theme">Tema Aplikasi</string>
+</resources>
